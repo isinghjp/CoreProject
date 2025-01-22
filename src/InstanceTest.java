@@ -1,6 +1,6 @@
 public class InstanceTest {
 
-    int a=10;
+    Integer a=10;
     int b=20;
 
     public void show(){
