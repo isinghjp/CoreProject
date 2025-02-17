@@ -1,0 +1,3 @@
+database=localhost
+user=root
+password=admin
