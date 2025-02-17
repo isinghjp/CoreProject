@@ -11,7 +11,7 @@ public class AutoUnbox {
         System.out.println(i.toString());
 
         //autounboxing wrapper object - primitives
-        int a=new Integer(100);
-        System.out.println(a);
+        int aa=new Integer(100);
+        System.out.println(aa);
     }
 }
